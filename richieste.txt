@@ -1,0 +1,22 @@
+ESERCITAZIONE 4
+* Determinare il guadagno degli amplificatori invertente, non invertente e differenziale tramite un fit sinusoidale alle forme d’onda con relativo errore : 
+G = [-10.2 ± 0.8]
+G = [ 11.2 ± 0.8]
+* Misurare la frequenza di battimento 
+* Verificare che il circuito derivatore faccia la derivata del segnale in ingresso e calcolare il guadagno
+G ~= -10^4
+x [0.99879833] [[3.29685526e-06]]
+x [0.98038848] [[5.81415659e-05]]
+
+* Ricostruire la cura I-V del diodo e fittarla con l’equazione di Shokley
+fittata, devo solo finire con il grafico
+Is = [4.5 ± 0.1] × 10⁻¹⁰
+n  = [1.442 ± 0.003] × 10⁰
+
+ESERCITAZIONE 5
+Diagramma di Bode dei tre circuiti e confronto con il modello teorico
+Risposta all’impulso e confronto con il modello teorico 
+
+
+
+RELAZIONE DA CONSEGNARE IL 22 OTTOBRE
